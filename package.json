@@ -32,7 +32,6 @@
   "typings": "index.d.ts",
   "homepage": "https://github.com/akserg/ng2-slim-loading-bar",
   "peerDependencies": {
-    "@angular/core": "^4.0.0"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",
