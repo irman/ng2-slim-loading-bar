@@ -1,6 +1,6 @@
 // Copyright (C) 2016 Sergey Akopkokhyants
 // This project is licensed under the terms of the MIT license.
-// https://github.com/akserg/ng2-slim-loading-bar
+// https://github.com/irman/ng4-slim-loading-bar
 
 import { NgModule, ModuleWithProviders } from "@angular/core";
 

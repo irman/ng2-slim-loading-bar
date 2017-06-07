@@ -24,7 +24,7 @@ module.exports = {
         publicPath: '/',
         filename: 'index.umd.js',
         libraryTarget: 'umd',
-        library: 'ng2-slim-loading-bar'
+        library: 'ng4-slim-loading-bar'
     },
 
     // require those dependencies but don't bundle them

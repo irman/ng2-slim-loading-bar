@@ -1,6 +1,6 @@
 // Copyright (C) 2016 Sergey Akopkokhyants
 // This project is licensed under the terms of the MIT license.
-// https://github.com/akserg/ng2-slim-loading-bar
+// https://github.com/irman/ng4-slim-loading-bar
 
 import { Component, Input, OnInit } from '@angular/core';
 
@@ -11,7 +11,7 @@ import { isPresent } from './slim-loading-bar.utils';
  * A Slim Loading Bar component shows message loading progress bar on the top of web page or parent component.
  */
 @Component({
-    selector: 'ng2-slim-loading-bar',
+    selector: 'ng4-slim-loading-bar',
     template: `
 <div class="slim-loading-bar">
     <div class="slim-loading-bar-progress" [style.width]="progress + '%'" [style.backgroundColor]="color" [style.color]="color"
